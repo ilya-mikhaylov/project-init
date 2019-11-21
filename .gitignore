@@ -3,3 +3,13 @@
 .idea
 .eslintrc.js
 /node-modules
+*.log
+.vscode
+.idea
+.eslintrc.js
+/node-modules
+*.log
+.vscode
+.idea
+.eslintrc.js
+/node-modules

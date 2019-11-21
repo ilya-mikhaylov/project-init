@@ -6,9 +6,9 @@ read -p 'Create Jasmine tests? Y/N...' -n 1 -r
 echo 'Jasmine tests will be also created.'
 # if [ $REPLY =- ^[Yy]$ ]
 # then
-# wget html
-# wget /spec
-# wget /lib
+wget https://drive.google.com/$typettps://drive.google.com/open?id=1zBEmUFWrZ-GpMRKd7LxYc7-AEnaALap
+# wget https://drive.google.com/open?id=1GyepAUi_fV0g-xwrzaYeQyIhoxWY4Moa
+# wget https://drive.google.com/open?id=10GQpJkOsnZDnTzRXz7QH6PeZCsay8HDS
 # fi
 
 npm init -yes
