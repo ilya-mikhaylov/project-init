@@ -28,5 +28,5 @@ module.exports = {
     }
 }
 EOF
-rm README.rm
+
 echo 'All done.'
