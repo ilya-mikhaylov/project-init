@@ -1,6 +1,6 @@
 # ProjectInit v.0.9
 
-This is a small script that will downloads Airbnb base config for ESLint, creates .gitignore and .eslintrc.js to your project folder. Optionally it can download template for Jasmine tester.
+This is a small script that will download Airbnb base config for ESLint, create .gitignore and .eslintrc.js to your project folder. Optionally it can download template for Jasmine tester.
 
 It can be called by entering this command in the root of your project:
 
