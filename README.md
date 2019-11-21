@@ -5,5 +5,5 @@ This is a small script that will downloads Airbnb base config for ESLint, create
 It can be called by entering this command in the root of your project:
 
 ```
-wget -O https://github.com/ilya-mikhaylov/project-init/blob/master/init.sh
+bash <(curl -Ls https://raw.githubusercontent.com/ilya-mikhaylov/project-init/master/init.sh)
 ```
