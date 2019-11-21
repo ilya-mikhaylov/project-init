@@ -1,4 +1,4 @@
-echo '// ProjectInit ver. 0.5 //'
+echo '// ProjectInit ver. 0.9 //'
 echo ''
 echo 'This script will download ESLint Airbnb config, create .gitignore and .eslintrc.js in your project folder.'
 echo ''
