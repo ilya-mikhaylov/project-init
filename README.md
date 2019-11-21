@@ -7,3 +7,5 @@ It can be called by entering this command in the root of your project:
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/ilya-mikhaylov/project-init/master/init.sh)
 ```
+
+Current version is tested on Ubuntu 19.10. Feel free to contact and maintain this small project.
