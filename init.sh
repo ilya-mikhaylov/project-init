@@ -28,7 +28,7 @@ cat >> .gitignore << EOF
 .vscode
 .idea
 .eslintrc.js
-/node-modules
+node_modules
 EOF
 
 cat >> .eslintrc.js << EOF
