@@ -29,6 +29,9 @@ cat >> .gitignore << EOF
 .idea
 .eslintrc.js
 node_modules
+lib
+YourSpecRunner.html
+spec
 EOF
 
 cat >> .eslintrc.js << EOF
